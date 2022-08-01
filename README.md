@@ -2,8 +2,6 @@
 
 For the task below, take advantage of this [model field reference](https://docs.djangoproject.com/en/4.0/ref/models/fields/).
 
-<!-- Setup is a noun, the verb is "set up" -->
-
 1. Set up a `virtual environment`.
 2. Create a `Django` project.
 3. Create a `requirements` file.
