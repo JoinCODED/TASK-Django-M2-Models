@@ -13,7 +13,7 @@ For the task below, take advantage of this [model field reference](https://docs.
    - `description`: string field type with no character limitations that defaults to an empty string.
    - `opening_time`: time field type.
    - `closing_time`: time field type.
-   - `created_at`: datetime field that defaults to the datetime the object was created in.
+   - `created_at`: datetime field that defaults to the datetime the object was created at.
 8. Push your project to a remote repository (`GitHub`).
 
 ## Bonus
